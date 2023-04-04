@@ -3,7 +3,7 @@ Question answering for the Wolfram Physics Project. Uses GPT, Langchain, the off
 
 Download WPPALLDATA.txt, add your GPT api key, and run WolframLangchain_cli_app.ipynb
 
-# To Do
+# TODO
 - Improve prompt
 - Optimize global configurations
 - Add documents as necessary
