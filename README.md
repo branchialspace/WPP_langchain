@@ -3,7 +3,7 @@ A ChatGPT-like experience on the subject of the Wolfram Physics Project. Uses GP
 
 # Run in colab
 - Open in colab at the top of WolframLangchain_cli_app.ipynb
-- Create folder called WPP_Data in colab files, and paste all data from the same folder in this repo
+- Create folder called WPP_Data in colab files, and paste all data from the same folder found in this repo
 - Run first cell to install dependencies, then go to Runtime > Restart runtime to resolve overwritten dependencies
 - Run the rest
 
