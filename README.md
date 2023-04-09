@@ -1,7 +1,11 @@
 # Wolfram Physics Project question answering using GPT and Langchain
-A ChatGPT-like experience on the subject of the Wolfram Physics Project. Uses GPT and Langchain, referencing the official Wolfram Physics Project Technical Introduction and all related articles from Stephen Wolfram and the Wolfram Institute.
+A ChatGPT-like experience on the subject of the Wolfram Physics Project. Uses GPT and Langchain. References the official Wolfram Physics Project Technical Introduction, all related articles/ research papers from Stephen Wolfram, Jonathan Gorard, Xerxes D. Arsiwalla, Max Piskunov, James Boyd, Hatem Elshatlawy, Manojna Namuduri, Yorick Zeschke, Carlos Zapata-Carratalá, Taliesin Beynon, Utkarsh Bajaj, Tobías Canavesi and Truman Tapia.
 
-Download WPPALLDATA.txt, add your GPT api key, and run WolframLangchain_cli_app.ipynb
+# Run in colab
+- Create folder called WPP_Data in colab files, and paste all data from the same folder in this repo
+- Run first cell to install dependencies, then go to Runtime > Restart runtime to resolve overwritten dependencies
+- Run the rest
+
 
 # To Do
 - Improve prompt
