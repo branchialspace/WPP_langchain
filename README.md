@@ -1,5 +1,5 @@
 # Wolfram Physics Project question answering using GPT and Langchain
-A ChatGPT-like experience on the subject of the Wolfram Physics Project. Uses GPT and Langchain. References the official Wolfram Physics Project Technical Introduction, all related articles/ research papers from Stephen Wolfram, Jonathan Gorard, Xerxes D. Arsiwalla, Max Piskunov, James Boyd, Hatem Elshatlawy, Manojna Namuduri, Yorick Zeschke, Carlos Zapata-Carratalá, Taliesin Beynon, Utkarsh Bajaj, Tobías Canavesi and Truman Tapia.
+A ChatGPT-like experience on the subject of the Wolfram Physics Project. Uses GPT and Langchain ChatVectorDBChain. References the official Wolfram Physics Project Technical Introduction, all related articles/ research papers from Stephen Wolfram, Jonathan Gorard, Xerxes D. Arsiwalla, Max Piskunov, James Boyd, Hatem Elshatlawy, Manojna Namuduri, Yorick Zeschke, Carlos Zapata-Carratalá, Taliesin Beynon, Utkarsh Bajaj, Tobías Canavesi and Truman Tapia.
 
 # Run in colab
 - Open in colab at the top of WolframLangchain_cli_app.ipynb
